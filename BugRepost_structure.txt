@@ -1,0 +1,20 @@
+Required fields
+
+1. Summary
+2. Description
+3. Project
+4. Precondition
+5. Steps to reproduce
+6. Expected result
+7. Actual result
+8. Bug severity (Blocker/Critical/Major/Minor/Trivial)
+9. Bug priority (High/Medium/Minor)
+10. Attachments (Screenshot, Video, Log-file)
+
+Additional fields
+
+1. Unique report number (ID) 
+2. Author
+3. Assigned to
+4. The status that shows the current stage of working with the bug
+5. Incident type
